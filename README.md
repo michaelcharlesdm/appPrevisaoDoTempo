@@ -7,7 +7,6 @@
   <P> - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="image-html" />
   <P> - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="image-css" />
   <p> - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="image-javascript" />
- <p> <b> Dentro deste projeto foi aplicado HTML, CSS e javascript. </b> </p> 
 
    <section align="center">
    <img src="https://raw.githubusercontent.com/michaelcharlesdm/appPrevisaoDoTempo/149b872cec302b885e05e21158d1e968777ce011/assets/Captura%20de%20tela%202023-04-03%20164456.png"/>
